@@ -1,6 +1,7 @@
 ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='https://th.bing.com/th/id/OIP.j5g3jsqdDhgnLD-WCHR_XwAAAA?rs=1&pid=ImgDetMain'>"
+Short description of portfolio item number 1<br/><img src='https://th.bing.com/th/id/OIP.j5g3jsqdDhgnLD-WCHR_XwAAAA?rs=1&pid=ImgDetMain'>
 
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
